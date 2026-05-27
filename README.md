@@ -1,26 +1,118 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Chauncey
-=================================================================================================================================
+<!-- JARVIS INTERFACE — CHAUNCEY EDULAN -->
 
-IT Student
-----------
+<div align="center">
 
-Bachelor of Science in Information Technology Student in Southern Leyte State University
+```
+ ╔══════════════════════════════════════════════════════════════╗
+ ║      J.A.R.V.I.S. INTERFACE · OPERATOR PROFILE ONLINE       ║
+ ╚══════════════════════════════════════════════════════════════╝
+```
 
-* 🌍  I'm based in Philippines
-* ✉️  You can contact me at [chaunceyedulan2020@gmail.com](mailto:chaunceyedulan2020@gmail.com)
-* 🚀  I'm currently working on [GG Pharmacy](http://github.com/chonsi26/gg_pharmacy)
-* 🧠  I'm currently learning Laravel
-* 👥  I'm looking to collaborate on Web Based Projects
+</div>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
-</p>
+---
 
-### Socials
+<div align="center">
 
-<p align="left"> <a href="https://www.github.com/chonsi26" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.youtube.com/@chaunceyedulan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://www.facebook.com/chauncey.edulan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-### Badges
+# ⬡ CHAUNCEY EDULAN
 
-<b>My GitHub Stats</b>
+**`IT STUDENT · WEB DEVELOPER · PHILIPPINES`**
 
-<a href="http://www.github.com/chonsi26"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chonsi26&stroke=ffffff&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=Initializing+JARVIS+protocol...;Operator+identity+confirmed.;BS+Information+Technology+%7C+SLSU;Currently+deploying+GG+Pharmacy+system.;Acquiring+new+directive%3A+Laravel+framework.;Arc+reactor+at+100%25+capacity.+Ready.)
+
+</div>
+
+---
+
+## 〔 MISSION INTEL 〕
+
+```yaml
+OPERATOR   : Chauncey Edulan
+LOCATION   : Philippines
+UNIT       : Southern Leyte State University
+PROGRAM    : Bachelor of Science in Information Technology
+STATUS     : Active
+COMMS      : chaunceyedulan2020@gmail.com
+DIRECTIVE  : Open to Web-Based Project Collaboration
+```
+
+---
+
+## 〔 ACTIVE OPERATIONS 〕
+
+```
+ ┌─────────────────────────────────────────────────────────────┐
+ │  ⬡ PRIMARY    GG Pharmacy System                           │
+ │               github.com/chonsi26/gg_pharmacy              │
+ │               ██████████████░░░░░░ 68% Deployed            │
+ ├─────────────────────────────────────────────────────────────┤
+ │  ⬡ TRAINING   Laravel Framework                            │
+ │               Expanding full-stack PHP capabilities         │
+ │               █████████░░░░░░░░░░░ 42% Acquired            │
+ ├─────────────────────────────────────────────────────────────┤
+ │  ⬡ SEEKING    Web Collaboration                            │
+ │               Accepting new directives — open to partners   │
+ └─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 〔 STARK TECH ARSENAL 〕
+
+### ◈ Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=e8a700)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=4fc3f7)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=4fc3f7)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=e57373)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=dotnet&logoColor=4fc3f7)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=4fc3f7)
+
+### ◈ Frameworks & UI
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=e57373)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=4fc3f7)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=9b7fe8)
+![NodeJS](https://img.shields.io/badge/NodeJS-0d1117?style=flat-square&logo=nodedotjs&logoColor=4caf50)
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=e57373)
+
+### ◈ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=e57373)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4fc3f7)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=4fc3f7)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-0d1117?style=flat-square&logo=sublimetext&logoColor=e8a700)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d1117?style=flat-square&logo=googlecloud&logoColor=4fc3f7)
+![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=flat-square&logo=adobephotoshop&logoColor=4fc3f7)
+![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=4caf50)
+
+---
+
+## 〔 COMBAT PERFORMANCE ANALYTICS 〕
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chonsi26&stroke=4fc3f7&background=0d1117&ring=c0392b&fire=e8a700&currStreakNum=e0f4ff&currStreakLabel=c0392b&sideNums=e0f4ff&sideLabels=4fc3f7&dates=4fc3f7&hide_border=true)](http://www.github.com/chonsi26)
+
+</div>
+
+---
+
+## 〔 COMMUNICATION CHANNELS 〕
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=4fc3f7&labelColor=0d1117)](https://github.com/chonsi26)
+[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=e57373&labelColor=0d1117)](https://www.youtube.com/@chaunceyedulan)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=4fc3f7&labelColor=0d1117)](https://www.facebook.com/chauncey.edulan)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+ ╔══════════════════════════════════════════════════════════════╗
+ ║   ⬡ J.A.R.V.I.S. v3.14  ·  Powered by Arc Reactor  ▮      ║
+ ╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
